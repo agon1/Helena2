@@ -1,3 +1,4 @@
 Hallo heimur
 Hello world
-hallo hallo
+Þetta virkar?
+Nærðu þessu?
