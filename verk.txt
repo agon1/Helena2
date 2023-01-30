@@ -1,2 +1,3 @@
 Hallo heimur
 Hello world
+Þetta virkar?
